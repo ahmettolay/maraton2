@@ -1,0 +1,11 @@
+Soru 1. (Toplam 20 puan)
+
+Çalışanların şahsi bilgilerinin ve çalıştıkları şirket bilgilerinin sisteme tanımlandığı bir uygulama yapmanız beklenmektedir.
+
+· Şirketlerin şirket ismi, şirket sahibi, ünvanı, faaliyet alanı, kuruluş yılı gibi tanımlayıcı özellikleri olmalıdır.
+
+· Çalışanların isimleri, yaşları, maaşları, departmanları ve çalıştıkları şirket sisteme eklenmelidir.
+
+· Eklenen çalışanların bilgileri görüntülenebilmeli, güncellenebilmeli veya çalışan işini bıraktıysa silinebilmelidir.
+
+Veritabanı bağlantısı JDBC ile yapılmalıdır.
